@@ -23,9 +23,9 @@ large number of stocks is included.
 
 For more details see the example notebook.
 
-![overview 1](images/pf_overview.PNG)
-![overview 2](images/pf_overview2.PNG)
-![overview 3](images/pf_overview3.PNG)
+![overview 1](images/pf_overview_1.PNG)
+![overview 2](images/pf_overview_2.PNG)
+![overview 3](images/pf_overview_3.PNG)
 
 Requirements:
 numpy, pandas, datetime, matplotlib, quandl, alpha vantage
