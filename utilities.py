@@ -232,7 +232,7 @@ class Portfolio:
                .join(self.overview["Invested capital"])
                )
         tmp["PF value, selling today"] = tmp["PF value, selling today"].add(tmp["Invested capital"])
-        tmp.plot(title="Portfolio balance")
+        tmp.plot(title="Portfolio balance", figsize=(10, 6))
         print("PF as of today:")
         display(self.balance.sum())
 
