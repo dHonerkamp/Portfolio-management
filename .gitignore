@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+_pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+quandl_API.txt
+alpha_vantage_API.txt
+my_pf.ipynb
